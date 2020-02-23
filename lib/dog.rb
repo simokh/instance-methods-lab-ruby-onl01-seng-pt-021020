@@ -2,10 +2,11 @@ class Dog
 end
 
 def bark
-puts "bark"
+puts "woof"
 end
 
-
+simo = Dog.new
+simo.
 
 
 # class Dog
