@@ -8,9 +8,11 @@ def bark
 puts "Woof!"
 end
 
-fido.bark 
+fido.bark
 
 
 def sit
 puts "The Dog is sitting"
 end
+
+fido.sit
