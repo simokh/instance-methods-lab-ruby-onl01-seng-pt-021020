@@ -8,7 +8,11 @@ end
 fido = Dog.new
 fido.woof
 
+def sit 
+puts "The Dog is sitting"
+end 
 
+fido.sit 
 
 # class Dog
 #   # Class body
