@@ -4,6 +4,9 @@ class Person
     puts "talk"
   end
 
-  
 
 end
+
+
+ada = Person.new
+ada.talk
