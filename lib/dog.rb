@@ -6,7 +6,8 @@ puts "woof"
 end
 
 simo = Dog.new
-simo.
+simo.woof
+
 
 
 # class Dog
