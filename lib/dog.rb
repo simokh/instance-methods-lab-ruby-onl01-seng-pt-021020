@@ -6,13 +6,13 @@ puts "Woof"
 end
 
 fido = Dog.new
-fido.woof
+fido.bark
 
 def sit
 puts "The Dog is sitting"
 end
 
-fido.sit 
+fido.sit
 
 # class Dog
 #   # Class body
