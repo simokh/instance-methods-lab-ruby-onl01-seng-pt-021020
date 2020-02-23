@@ -3,5 +3,4 @@ end
 
 simo = Dog.new
 
-simo = bark 
-
+simo = bark
