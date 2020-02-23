@@ -5,8 +5,8 @@ def bark
 puts "woof"
 end
 
-simo = Dog.new
-simo.woof
+fido = Dog.new
+fido.woof
 
 
 
