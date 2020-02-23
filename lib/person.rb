@@ -1,9 +1,2 @@
 class Perosn
-
-
-
-
-
-
-
 end 
